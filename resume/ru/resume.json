@@ -3,6 +3,8 @@
   "basics": {
     "name": "Александра Лысенко",
     "label": "Backend developer",
+    "image": "https://lysalexy.github.io/static/photo.jpg",
+    "picture": "https://lysalexy.github.io/static/photo.jpg",
     "email": "orange260302@gmail.com",
     "phone": "+7 (929) 036-74-50",
     "location": {
