@@ -125,7 +125,6 @@
       "keywords": [
         "REST",
         "OpenAPI",
-        "JWT",
         "Git"
       ]
     },
@@ -139,19 +138,29 @@
       ]
     },
     {
+      "name": "Teamwork",
+      "level": "Master",
+      "keywords": [
+        "Agile",
+        "Scrum"
+      ]
+    },
+    {
+      "name": "Project Management",
+      "level": "Master",
+      "keywords": [
+        "Project plan",
+        "RASCI",
+        "Inner&outer communications"
+      ]
+    },
+    {
       "name": "Testing",
       "level": "Intermediate",
       "keywords": [
         "TDD",
-        "Unit testing"
-      ]
-    },
-    {
-      "name": "Teamwork",
-      "level": "Intermediate",
-      "keywords": [
-        "Agile",
-        "Scrum"
+        "Unit testing",
+        "Integration testing"
       ]
     },
     {
