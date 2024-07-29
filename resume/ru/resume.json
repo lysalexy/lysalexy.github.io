@@ -225,7 +225,7 @@
       "type": "coursework"
     },
     {
-      "name": "Онлайн-сервис для аптеки ProPill.",
+      "name": "Онлайн-сервис для аптеки ProPill",
       "description": "Курсовая работа по дисциплине \"Технологии разработки качественного программного обеспечения\" в СПбПУ",
       "highlights": [
         "Java, Spring, OpenAPI, PostgreSQL, JUnit, MockMVC",
