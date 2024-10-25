@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be955674-c35f-472e-a79b-b62d8aadf182" name="Changes" comment="polish resume(fix typos) v.3" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="new" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="Make.Settings">
+    <option name="path" value="C:\cygwin64\bin\sh.exe" />
+    <option name="useCygwin" value="true" />
+  </component>
+  <component name="MakefileLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="lysalexy.github.io" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="lysalexy.github.io" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="3.4" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2eaFONIeoBwECOLsbQoZvJtYNDP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Makefile Target.css.executor": "Run",
+    "Makefile Target.ru.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/orang/IdeaProjects/lysalexy.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "CPPToolchains",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\orang\IdeaProjects\lysalexy.github.io\static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="css" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="css" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="en" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="en" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="ru" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="ru" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be955674-c35f-472e-a79b-b62d8aadf182" name="Changes" comment="" />
+      <created>1712134748913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712134748913</updated>
+      <workItem from="1712134752298" duration="1049000" />
+      <workItem from="1712135827741" duration="701000" />
+      <workItem from="1712136663582" duration="707000" />
+      <workItem from="1712138184385" duration="433000" />
+      <workItem from="1712139861593" duration="9976000" />
+      <workItem from="1712322492931" duration="9000" />
+      <workItem from="1712323715632" duration="446000" />
+      <workItem from="1712395740764" duration="917000" />
+      <workItem from="1713648456211" duration="53000" />
+      <workItem from="1722275989663" duration="3419000" />
+      <workItem from="1722360279375" duration="1693000" />
+      <workItem from="1722362288626" duration="250000" />
+      <workItem from="1726139638747" duration="94000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add personal info">
+      <option name="closed" value="true" />
+      <created>1712142862853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712142862853</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add link to Petrobot org">
+      <option name="closed" value="true" />
+      <created>1712144530009</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712144530009</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update .html">
+      <option name="closed" value="true" />
+      <created>1712144580432</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712144580440</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add info about School 21">
+      <option name="closed" value="true" />
+      <created>1712145284345</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712145284345</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add info about Digital departments">
+      <option name="closed" value="true" />
+      <created>1712145760485</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712145760485</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fix skills">
+      <option name="closed" value="true" />
+      <created>1712146328257</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712146328257</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add PDF">
+      <option name="closed" value="true" />
+      <created>1712146714007</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712146714007</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fix picture">
+      <option name="closed" value="true" />
+      <created>1712147740284</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712147740284</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fix picture v.2">
+      <option name="closed" value="true" />
+      <created>1712147978971</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712147978971</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Improve README.md">
+      <option name="closed" value="true" />
+      <created>1712149623987</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712149623987</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Improve README.md">
+      <option name="closed" value="true" />
+      <created>1712149669955</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712149669955</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix typos">
+      <option name="closed" value="true" />
+      <created>1712396061935</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712396061935</updated>
+    </task>
+    <task id="LOCAL-00013" summary="enhancement">
+      <option name="closed" value="true" />
+      <created>1722277159127</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1722277159127</updated>
+    </task>
+    <task id="LOCAL-00014" summary="enhancement">
+      <option name="closed" value="true" />
+      <created>1722277167050</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1722277167050</updated>
+    </task>
+    <task id="LOCAL-00015" summary="enhancement">
+      <option name="closed" value="true" />
+      <created>1722278023725</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1722278023725</updated>
+    </task>
+    <task id="LOCAL-00016" summary="please fix...">
+      <option name="closed" value="true" />
+      <created>1722278837267</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1722278837267</updated>
+    </task>
+    <task id="LOCAL-00017" summary="polish resume(add specialization in projects)">
+      <option name="closed" value="true" />
+      <created>1722361366674</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1722361366674</updated>
+    </task>
+    <task id="LOCAL-00018" summary="polish resume(add specialization in projects) v.2">
+      <option name="closed" value="true" />
+      <created>1722361762832</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1722361762832</updated>
+    </task>
+    <task id="LOCAL-00019" summary="polish resume(fix typos) v.3">
+      <option name="closed" value="true" />
+      <created>1722362397035</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1722362397035</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add personal info" />
+    <MESSAGE value="Add link to Petrobot org" />
+    <MESSAGE value="Update .html" />
+    <MESSAGE value="Add info about School 21" />
+    <MESSAGE value="Add info about Digital departments" />
+    <MESSAGE value="Fix skills" />
+    <MESSAGE value="Add PDF" />
+    <MESSAGE value="Fix picture" />
+    <MESSAGE value="Fix picture v.2" />
+    <MESSAGE value="Improve README.md" />
+    <MESSAGE value="fix typos" />
+    <MESSAGE value="enhancement" />
+    <MESSAGE value="please fix..." />
+    <MESSAGE value="polish resume(add specialization in projects)" />
+    <MESSAGE value="polish resume(add specialization in projects) v.2" />
+    <MESSAGE value="polish resume(fix typos) v.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="polish resume(fix typos) v.3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
