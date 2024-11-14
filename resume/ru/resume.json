@@ -40,8 +40,11 @@
       "position": "Инженер-программист",
       "startDate": "2024-08-20",
       "highlights": [
-        "Delivery specialist",
-        "pgSQL, plpgSQl, Java, Confluence, Jira, Gitlab"
+        "Delivery specialist, QA",
+        "pgSQL, Groovy, JSON, Liquibase, Confluence, Jira, Gitlab",
+        "Накат базы данных посредством Liquibase",
+        "Миграция pgSQL запросов в нативный SQL",
+        "Портация функционала pgSQL процедур Oracle в Groovy скрипты"
       ],
       "url": "https://nexign.com/ru"
     },
@@ -52,13 +55,13 @@
       "position": "Инженер-стажер",
       "startDate": "2024-05-20",
       "endDate": "2024-08-16",
-      "summary": "По завершении стажировки переведена на позицию в штат",
+      "summary": "Внедрение и конфигурация системы межоператорских расчетов Interconnect",
       "highlights": [
         "Delivery specialist",
-        "pgSQL, plpgSQl, Java, Confluence, Jira, Gitlab",
-        "Провела обучение на английском языке для заказчика по работе с программными компонентами",
-        "Участвовала в проведении приёмочного тестирования",
-        "Установила продукт на стенды заказчика"
+        "pgSQL, plpgSQl, Zookeeper, Nginx, Java, Confluence, Jira, Gitlab",
+        "Ручной разворот многосервисной системы(Angular, Java21, C), имеющей георезервирование и интеграцию с Zookeeper и Nginx",
+        "Проведение обучения на английском языке по работе с программными компонентами",
+        "Участие в проведении приёмочного тестирования"
       ],
       "url": "https://nexign.com/ru"
     },
