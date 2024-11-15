@@ -1,8 +1,8 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Александра Лысенко",
-    "label": "Backend developer",
+    "name": "Alexandra Lysenko",
+    "label": "Software engineer",
     "image": "https://lysalexy.github.io/static/photo.jpg",
     "picture": "https://lysalexy.github.io/static/photo.jpg",
     "email": "orange260302@gmail.com",
@@ -10,9 +10,9 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Санкт-Петербург",
-      "countryCode": "RU",
-      "region": "Россия"
+      "city": "Saint Petersburg",
+      "CountryCode": "RU",
+      "region": "Russia"
     },
     "profiles": [
       {
@@ -34,89 +34,117 @@
   },
   "work": [
     {
-      "name": "Центр информационно-программной поддержки СПбПУ",
-      "location": "Санкт-Петербург",
-      "description": "Центр информационно-программной поддержки СПбПУ",
-      "position": "Лаборант",
-      "startDate": "2022-09-01",
-      "endDate": "2023-04-01",
-      "summary": "Разработала ряд коммерческих проектов на языке Kotlin с использованием Telegram API и СУБД (H2, PostgreSQL)",
+      "name": "Nexign",
+      "location": "Saint Petersburg",
+      "description": "Software engineer in the Directorate for Implementation and Consulting",
+      "position": "Software Engineer",
+      "summary": "Migration of the largest Russian telecom operator to an import-substituted inter-operator settlement system",
+      "StartDate": "2024-08-20",
       "highlights": [
-        "Kotlin, Gradle, PostgreSQL, H2, TelegramAPI",
-        "Разрабатывала календарные планы проектов",
-        "Проводила еженедельные встречи с командой разработчиков",
-        "Реализовала аутентификацию пользователя с заполнением анкеты (с использованием inline-кнопок), по номеру телефона(с помощью получения контакта)",
-        "Реализовала изменение данных аккаунта пользователя (интерфейс и взаимодействие с базой данных)",
-        "Реализовала заполнение полей введёнными пользователями данными в документах",
-        "Реализовала получение содержимого обучающего трека, включая прохождение тестирования",
-        "Реализовала получение куратором оповещений о прохождении его командой обучающего модуля/загрузке домашнего задания"
+        "Delivery specialist, QA",
+        "pgSQL, Groovy, JSON, Liquibase, Confluence, Jira, Gitlab",
+        "Database rollout via Liquibase",
+        "Migration of pgSQL queries to native SQL",
+        "Porting the functionality of Oracle pgSQL procedures to Groovy scripts"
       ],
-      "url": "https://github.com/Petrobot-Org"
+      "url": "https://nexign.com/ru"
     },
     {
-      "name": "Совместная лаборатория YADROxСПбПУ",
-      "location": "Санкт-Петербург",
-      "description": "Совместная лаборатория YADROxСПбПУ",
-      "position": "Участник лаборатории",
-      "startDate": "2023-02-01",
-      "endDate": "2024-02-29",
-      "summary": "Реализовала конструктор SQL запросов для асинхронного клиента системы управления базами данных PostgreSQL",
+      "name": "Nexign",
+      "location": "Saint Petersburg",
+      "description": "Internship in the Directorate of Implementation and Consulting",
+      "position": "Trainee Engineer",
+      "StartDate": "2024-05-20",
+      "EndDate": "2024-08-16",
+      "summary": "Implementation and configuration of the Interconnect interoperation system",
       "highlights": [
-        "C++, Makefile, Seastar, fmt",
-        "Gitlab",
-        "Реализовала парсинг ответов сервера, содержащих данные таблицы в пользовательские классы",
-        "Реализовала вывод таблиц в человекочитаемом формате",
-        "Реализовала конструирование простых запросов select, update, delete, create, drop на основе пользовательских классов",
-        "Реализовала конструирование сложных запросов типов where, having, as, group by на основе пользовательских классов"
+        "Delivery specialist",
+        "pgSQL, plpgSQl, Zookeeper, Nginx, Java, Confluence, Jira, Gitlab",
+        "Manual reversal of a multiservice system (Angular, Java21, C) having georeferencing and integration with Zookeeper and Nginx",
+        "Conducting training in English on working with software components",
+        "Participation in conducting acceptance testing"
+      ],
+      "url": "https://nexign.com/ru"
+    },
+    {
+      "name": "YADROxSPbPU Joint Laboratory",
+      "location": "Saint Petersburg",
+      "description": "YADROxSPbPU Joint Laboratory",
+      "position": "Laboratory participant",
+      "StartDate": "2023-02-01",
+      "EndDate": "2024-02-29",
+      "summary": "Implementation of the SQL query constructor within the asynchronous client of the PostgreSQL database management system. Wire PostgreSQL protocol implementation",
+      "highlights": [
+        "Backend developer",
+        "C++, Makefile, Seastar, fmt, Gitlab",
+        "Implemented server response parsing and table output in human-readable format",
+        "Implemented CRUD query construction with where, having, as, group by conditions based on user classes"
       ],
       "url": "https://gitlab.com/Volgarenok/dbss-client"
+    },
+    {
+      "name": "SPbPU Information and Software Support Center",
+      "location": "Saint Petersburg",
+      "description": "SPbPU Information and Software Support Center",
+      "position": "Laboratory assistant",
+      "StartDate": "2022-09-01",
+      "EndDate": "2023-04-01",
+      "summary": "Developed a number of commercial projects using Telegram API",
+      "highlights": [
+        "Fullstack developer, Teamlead",
+        "Kotlin, Gradle, PostgreSQL, H2, TelegramAPI",
+        "Developed project schedules",
+        "Held weekly meetings of the development team",
+        "edtech: teacher consultant (together with the Center for Education Quality of SPbPU), digital tracker of the project accelerator (NTI Pre-accelerator)",
+        "b2b: a platform for cross-communication of graduates of the Skolkovo School of Management",
+        "automation: formation of a package of documents within the framework of the \"Priority 2030\" program"
+      ],
+      "url": "https://github.com/Petrobot-Org"
     }
   ],
   "education": [
     {
-      "institution": "Санкт-Петербургский политехнический университет им. Петра Великого",
-      "url": "https://www.spbstu.ru/",
-      "area": "Программная инженерия",
-      "studyType": "Бакалавриат",
-      "startDate": "2020-09-01",
-      "endDate": "2024-07-01",
-      "score": "4.76",
+      "institution": "St. Petersburg Polytechnic University named after Peter the Great",
+      "url": "https://www.spbstu.ru /",
+      "area": "Software engineering",
+      "studyType": "Bachelor's Degree",
+      "StartDate": "2020-09-01",
+      "EndDate": "2024-07-01",
+      "score": "4.88",
       "courses": [
-        "Технологии программирования (C++)",
-        "Объектно-ориентированное программирование (Java)",
-        "Алгоритмы и структуры данных (С++)",
-        "Операционные системы (C)",
-        "Системное программное обеспечение GNU/Linux",
-        "Архитектура ЭВМ (ASM)",
-        "Базы данных (Java)",
-        "Введение в машинное обучение (Python)",
-        "Моделирование СМО (Svelte)"
+        "Programming Technologies (C++)",
+        "Object-oriented programming (Java)",
+        "Algorithms and data structures (C++)",
+        "Operating systems (C)",
+        "Databases (Java)",
+        "Introduction to Machine Learning (Python)",
+        "CFR modeling (Svelte)"
       ]
     },
     {
-      "institution": "Школа 21",
-      "url": "https://21-school.ru/",
-      "area": "Подготовка IT специалистов",
-      "studyType": "дополнительное образование",
-      "startDate": "2023-12-20",
-      "endDate": "2025-01-29",
+      "institution": "School 21 is an educational project of the Savings Bank",
+      "url": "https://21-school.ru /",
+      "area": "Training of IT specialists",
+      "studyType": "additional education",
+      "StartDate": "2023-12-20",
+      "EndDate": "2025-01-29",
       "courses": [
-        "Язык С",
+        "C language",
         "DevOps"
       ]
     },
     {
-      "institution": "Центр развития дополнительного образования Санкт-Петербургский политехнический университет Петра Великого \"Цифровые кафедры\"",
-      "url": "https://ido.spbstu.ru/cifrovye_kafedry/",
-      "area": "Основы управления цифровыми проектами",
-      "studyType": "дополнительное образование",
-      "startDate": "2022-09-01",
-      "endDate": "2023-06-21",
+      "institution": "Center for the Development of Additional Education Peter the Great St. Petersburg Polytechnic University \"Digital departments\"",
+      "url": "https://ido.spbstu.ru/cifrovye_kafedry /",
+      "area": "Fundamentals of Digital Project Management",
+      "studyType": "additional education",
+      "StartDate": "2022-09-01",
+      "EndDate": "2023-06-21",
       "courses": [
-        "Инициация проекта",
-        "Заинтересованные стороны и коммуникации",
-        "Планирование проекта",
-        "Выполнение проекта и измерение выгод"
+        "Project Initiation",
+        "Stakeholders and Communications",
+        "Project Planning",
+        "Implementation project and benefit measurement"
       ]
     }
   ],
@@ -136,7 +164,8 @@
       "keywords": [
         "SQL",
         "PostgreSQL",
-        "MSSQL"
+        "MSSQL",
+        "Oracle"
       ]
     },
     {
@@ -162,7 +191,9 @@
       "keywords": [
         "TDD",
         "Unit testing",
-        "Integration testing"
+        "Integration testing",
+        "JUnit5",
+        "MockMVC"
       ]
     },
     {
@@ -171,9 +202,18 @@
         "C++",
         "C",
         "Java",
-        "Kotlin",
-        "Bash"
+        "Kotlin"
       ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Russian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Upper intermediate"
     }
   ],
   "languages": [
@@ -188,51 +228,14 @@
   ],
   "projects": [
     {
-      "name": "Моделирование СМО",
-      "description": "Курсовая работа по курсу \"Архитектура программных систем\" в СПбПУ",
+      "name": "Online service for ProPill pharmacy",
+      "description": "Coursework on the discipline \"Technologies for developing high-quality software\" at SPbPU",
       "highlights": [
-        "Спроектировала систему массового обслуживания с заданными параметрами",
-        "Разработала программу для имитационного моделирования СМО с заданными дисциплинами отказа и постановки на обслуживание",
-        "Реализовала вэб приложение на Svelte, все расчёты производятся на стороне клиента"
-      ],
-      "keywords": [
-        "Система массового обслуживания",
-        "Queueing system",
-        "Имитационное моделирование",
-        "Simulation modeling",
-        "Svelte"
-      ],
-      "url": "https://github.com/lysalexy/APS",
-      "startDate": "2022-10-10",
-      "endDate": "2022-11-17",
-      "type": "coursework"
-    },
-    {
-      "name": "Декстоп-приложение для компании, занимающейся организацией конференций",
-      "description": "Проект представляет собой приложение для работы с базой данных компании по организации конференций. База данных, а также используемые функции хранятся в СУБД MSSQL Server и были спроектирована в рамках дисциплины \"Базы данных\" ",
-      "highlights": [
-        "Разработала и реализовала базу данных для MSSQL Server",
-        "Реализовала ряд функций, представлений и запросов для базы данных",
-        "Реализовала десктоп-приложение для 3 ролей пользователей с использованием JavaFX"
-      ],
-      "keywords": [
-        "MSSQL Server",
-        "Database",
-        "JavaFX"
-      ],
-      "url": "https://github.com/lysalexy/JavaFX-ConferenceOrganizationCompany",
-      "startDate": "2022-10-15",
-      "endDate": "2022-12-09",
-      "type": "coursework"
-    },
-    {
-      "name": "Онлайн-сервис для аптеки ProPill",
-      "description": "Курсовая работа по дисциплине \"Технологии разработки качественного программного обеспечения\" в СПбПУ",
-      "highlights": [
-        "Реализовала эндпоинты для взаимодействия с базой данных",
-        "Реализовала регистрацию и  аутентификацию пользователя",
-        "Покрыла кодовую базу проекта модульными тестами на 80%",
-        "Написала интеграционные тесты, проверяющие корректность взаимодействия REST API с базой данных"
+        "Backend developer, Testing",
+        "Java, Spring, OpenAPI, PostgreSQL, JUnit, MockMvc",
+        "Implemented REST API",
+        "Covered the project code base with modular tests by 80%",
+        "Wrote integration tests that verify the correctness of the REST API interaction with the database"
       ],
       "keywords": [
         "Java",
@@ -246,14 +249,55 @@
       "startDate": "2023-09-22",
       "endDate": "2024-03-19",
       "type": "coursework"
+    },
+    {
+      "name": "Dextop application for a conference organizer company",
+      "description": "The project is an application for working with the database of a conference organization company. The database, as well as the functions used, are stored in the MSSQL Server DBMS and were designed within the framework of the discipline \"Databases\" ",
+      "highlights": [
+        "Fullstack developer",
+        "T-SQL, JavaFX",
+        "Developed the database architecture",
+        "Implemented the database and data manipulation functions",
+        "Implemented a desktop application for 3 user roles"
+      ],
+      "keywords": [
+        "MSSQL Server",
+        "Database",
+        "JavaFX"
+      ],
+      "url": "https://github.com/lysalexy/JavaFX-ConferenceOrganizationCompany",
+      "startDate": "2022-10-15",
+      "endDate": "2022-12-09",
+      "type": "coursework"
+    },
+    { "name": "Modeling of the CFR biomonitoring system of the St. Petersburg Vodokanal",
+      "description": "Coursework on the course \"Architecture of software systems\" at SPbPU",
+      "highlights": [
+        "Web developer",
+        "Svelte",
+        "Designed a queuing system simulating the biomonitoring of the St. Petersburg Vodokanal",
+        "Developed a program for simulation",
+        "Calculated the optimal configuration of the system"
+      ],
+      "keywords": [
+        "Queuing system",
+        "Queueing system",
+        "Simulation modeling",
+        "Simulation modeling",
+        "Svelte"
+      ],
+      "url": "https://github.com/lysalexy/APS",
+      "startDate": "2022-10-10",
+      "endDate": "2022-11-17",
+      "type": "coursework"
     }
   ],
   "interests": [
     {
-      "name": "Искусство"
+      "name": "Art"
     },
     {
-      "name": "Саморазвитие"
+      "name": "Self-development"
     }
   ],
   "meta": {
