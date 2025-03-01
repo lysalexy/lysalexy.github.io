@@ -12,7 +12,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be955674-c35f-472e-a79b-b62d8aadf182" name="Changes" comment="improve tasks description" />
+    <list default="true" id="be955674-c35f-472e-a79b-b62d8aadf182" name="Changes" comment="add translation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/en/resume.json" beforeDir="false" afterPath="$PROJECT_DIR$/resume/en/resume.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/ru/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/ru/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/ru/resume.json" beforeDir="false" afterPath="$PROJECT_DIR$/resume/ru/resume.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/ru/resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/resume/ru/resume.pdf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="new" />
+        <entry key="$PROJECT_DIR$" value="translate-resume-en" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -92,9 +98,9 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "add__nexign__experience",
+    "git-widget-placeholder": "merge-nexign-experience",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/orang/IdeaProjects/lysalexy.github.io",
+    "last_opened_file_path": "C:/Users/orang/Desktop/polikek-4ever",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -116,6 +122,19 @@
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="lysalexy.github.io" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="lysalexy.github.io" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="css" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
@@ -327,7 +346,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731617208629</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="add summary for current work">
+      <option name="closed" value="true" />
+      <created>1731617805184</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1731617805184</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add translation">
+      <option name="closed" value="true" />
+      <created>1731685970499</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1731685970499</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,7 +386,9 @@
     <MESSAGE value="polish resume(add specialization in projects) v.2" />
     <MESSAGE value="polish resume(fix typos) v.3" />
     <MESSAGE value="improve tasks description" />
-    <option name="LAST_COMMIT_MESSAGE" value="improve tasks description" />
+    <MESSAGE value="add summary for current work" />
+    <MESSAGE value="add translation" />
+    <option name="LAST_COMMIT_MESSAGE" value="add translation" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
