@@ -12,7 +12,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be955674-c35f-472e-a79b-b62d8aadf182" name="Changes" comment="add developer's tasks in highlights of Petrobot" />
+    <list default="true" id="be955674-c35f-472e-a79b-b62d8aadf182" name="Changes" comment="improve text style" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -372,7 +372,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740872236828</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="improve text style">
+      <option name="closed" value="true" />
+      <created>1740872456241</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1740872456241</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -400,7 +408,8 @@
     <MESSAGE value="add translation" />
     <MESSAGE value="merge nexign experience" />
     <MESSAGE value="add developer's tasks in highlights of Petrobot" />
-    <option name="LAST_COMMIT_MESSAGE" value="add developer's tasks in highlights of Petrobot" />
+    <MESSAGE value="improve text style" />
+    <option name="LAST_COMMIT_MESSAGE" value="improve text style" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
