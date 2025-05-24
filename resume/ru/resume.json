@@ -57,7 +57,7 @@
       "position": "Участник лаборатории",
       "startDate": "2023-02-01",
       "endDate": "2024-02-29",
-      "summary": "Реализация конструктора SQL запросов в рамках асинхронного клиента системы управления базами данных PostgreSQL. Реализация wired PostgreSQL protocol",
+      "summary": "Реализация конструктора SQL запросов в рамках асинхронного клиента системы управления базами данных PostgreSQL (в виде библиотеки для использования в приложениях на C++). Реализация wired PostgreSQL protocol",
       "highlights": [
         "Backend developer",
         "C++, Makefile, Seastar, fmt, Gitlab",
