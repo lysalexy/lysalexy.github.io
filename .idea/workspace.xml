@@ -12,7 +12,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be955674-c35f-472e-a79b-b62d8aadf182" name="Changes" comment="Petrobot: fix end date" />
+    <list default="true" id="be955674-c35f-472e-a79b-b62d8aadf182" name="Changes" comment="improve VKR description">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -388,14 +390,53 @@
       <option name="project" value="LOCAL" />
       <updated>1740873821249</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="add load testing experience">
+      <option name="closed" value="true" />
+      <created>1743856208256</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1743856208256</updated>
+    </task>
+    <task id="LOCAL-00029" summary="add load testing experience">
+      <option name="closed" value="true" />
+      <created>1743857516976</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1743857516976</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add manual testing experience">
+      <option name="closed" value="true" />
+      <created>1746294044874</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1746294044874</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add manual testing experience">
+      <option name="closed" value="true" />
+      <created>1746294724770</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1746294724770</updated>
+    </task>
+    <task id="LOCAL-00032" summary="improve VKR description">
+      <option name="closed" value="true" />
+      <created>1748077511587</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1748077511587</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add personal info" />
     <MESSAGE value="Add link to Petrobot org" />
     <MESSAGE value="Update .html" />
     <MESSAGE value="Add info about School 21" />
@@ -418,7 +459,10 @@
     <MESSAGE value="add developer's tasks in highlights of Petrobot" />
     <MESSAGE value="improve text style" />
     <MESSAGE value="Petrobot: fix end date" />
-    <option name="LAST_COMMIT_MESSAGE" value="Petrobot: fix end date" />
+    <MESSAGE value="add load testing experience" />
+    <MESSAGE value="add manual testing experience" />
+    <MESSAGE value="improve VKR description" />
+    <option name="LAST_COMMIT_MESSAGE" value="improve VKR description" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
