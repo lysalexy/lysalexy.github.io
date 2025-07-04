@@ -12,9 +12,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be955674-c35f-472e-a79b-b62d8aadf182" name="Changes" comment="improve VKR description">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="be955674-c35f-472e-a79b-b62d8aadf182" name="Changes" comment="nex" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -430,14 +428,21 @@
       <option name="project" value="LOCAL" />
       <updated>1748077511587</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="nex">
+      <option name="closed" value="true" />
+      <created>1748616380951</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1748616380951</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add link to Petrobot org" />
     <MESSAGE value="Update .html" />
     <MESSAGE value="Add info about School 21" />
     <MESSAGE value="Add info about Digital departments" />
@@ -462,7 +467,8 @@
     <MESSAGE value="add load testing experience" />
     <MESSAGE value="add manual testing experience" />
     <MESSAGE value="improve VKR description" />
-    <option name="LAST_COMMIT_MESSAGE" value="improve VKR description" />
+    <MESSAGE value="nex" />
+    <option name="LAST_COMMIT_MESSAGE" value="nex" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
